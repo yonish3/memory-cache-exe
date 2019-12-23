@@ -1,0 +1,27 @@
+{
+  "name": "memory-cache-example-with-answers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonish3/memory-cache-example-with-answers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonish3/memory-cache-example-with-answers/issues"
+  },
+  "homepage": "https://github.com/yonish3/memory-cache-example-with-answers#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "memory-cache": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
